@@ -17,10 +17,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original-wordmark.svg" title="prometheus" alt="prometheus" width="100" height="100"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original-wordmark.svg" title="graphana" alt="graphana" width="100" height="100"/>&nbsp;
 <picture>
-    <source srcset=""  media="(prefers-color-scheme: dark)" title="linux" alt="linux" width="100" height="100">&nbsp;
-    <img src="https://github.com/Vilinvil/Vilinvil/assets/98636591/f69ec6e0-78ce-48be-a3e1-e53a694aa6d4" title="linux" alt="linux" width="100" height="100">&nbsp;
+    <source srcset="https://github.com/Vilinvil/Vilinvil/assets/98636591/f69ec6e0-78ce-48be-a3e1-e53a694aa6d4"  media="(prefers-color-scheme: dark)" title="linux" alt="linux" width="100" height="100">&nbsp;
+    <img src="https://github.com/Vilinvil/Vilinvil/assets/98636591/9edee796-ce67-486e-b0b7-099acf6ccfca" title="linux" alt="linux" width="100" height="100">&nbsp;
 </picture>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" title="mongodb" alt="mongodb" width="100" height="100"/>&nbsp;
+
 
 ## Немного статистики
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vilinvil&theme=default)
