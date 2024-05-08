@@ -8,8 +8,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" title="python" alt="python" width="100" height="100"/>&nbsp; 
 
 ## Технологии
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="postgres" alt="postgres" width="100" height="100"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="100" height="100"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" title="postgres" alt="postgres" width="100" height="100"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.sv" title="docker" alt="docker" width="100" height="100"/>&nbsp;
 <picture>
     <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg"  media="(prefers-color-scheme: dark)" title="grpc" alt="grpc" width="100" height="100">&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-plain.svg" title="grpc" alt="grpc" width="100" height="100">&nbsp;
