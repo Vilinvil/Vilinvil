@@ -20,8 +20,6 @@
     <source srcset="https://github.com/Vilinvil/Vilinvil/assets/98636591/56deb5d5-e2a0-4ce5-8a27-79bbd0b21b55"  media="(prefers-color-scheme: dark)" title="linux" alt="linux" width="100" height="100">&nbsp;
     <img src="https://github.com/Vilinvil/Vilinvil/assets/98636591/9edee796-ce67-486e-b0b7-099acf6ccfca" title="linux" alt="linux" width="100" height="100">&nbsp;
 </picture>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" title="mongodb" alt="mongodb" width="100" height="100"/>&nbsp;
-
 
 ## Немного статистики
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vilinvil&theme=default)
