@@ -9,6 +9,9 @@
 
 ## Технологии
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" title="postgres" alt="postgres" width="100" height="100"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" title="kafka" alt="kafka" width="100" height="100"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" title="mongoDB" alt="mongoDB" width="100" height="100"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain-wordmark.svg" title="kubernetes" alt="kubernetes" width="100" height="100"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="100" height="100"/>&nbsp;
 <picture>
     <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg"  media="(prefers-color-scheme: dark)" title="grpc" alt="grpc" width="100" height="100">&nbsp;
@@ -16,10 +19,6 @@
 </picture>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original-wordmark.svg" title="prometheus" alt="prometheus" width="100" height="100"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original-wordmark.svg" title="graphana" alt="graphana" width="100" height="100"/>&nbsp;
-<picture>
-    <source srcset="https://github.com/Vilinvil/Vilinvil/assets/98636591/56deb5d5-e2a0-4ce5-8a27-79bbd0b21b55"  media="(prefers-color-scheme: dark)" title="linux" alt="linux" width="100" height="100">&nbsp;
-    <img src="https://github.com/Vilinvil/Vilinvil/assets/98636591/9edee796-ce67-486e-b0b7-099acf6ccfca" title="linux" alt="linux" width="100" height="100">&nbsp;
-</picture>
 
 ## Немного статистики
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vilinvil&theme=default)
